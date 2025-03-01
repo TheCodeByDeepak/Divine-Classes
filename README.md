@@ -16,7 +16,7 @@ Divine Classes is a **static website** designed for **enquiry and advertising pu
 
 ## 💡 Feedback & Suggestions
 We welcome your feedback! If you have suggestions for improvements, feel free to **reach out to us** via:
-- 📧 **Email**: [thecodebydeepak@gmail.com](mailto:thecodebydeepak@gmail.com)
+- 📧 **[Email](mailto:thecodebydeepak@gmail.com)**
 
 Your insights help us improve and provide a better learning experience! 🚀
 
