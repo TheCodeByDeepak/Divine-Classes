@@ -1,2 +1,2 @@
-# Divine-Classes
-This repository is for Divine Classes Websit
+# Divine Classes
+This repository is for Divine Classes Website
