@@ -1,7 +1,7 @@
 # 📚 Divine Classes Website
 
 ## 🌟 Overview
-Divine Classes is a **static website** designed for **enquiry and advertising purposes**. It provides information about available **courses**, **faculty details**, **contact information**, and **testimonials** from students.
+Divine Classes is a **static website** designed for **enquiry and advertising purposes**. <br>It provides information about available **courses**, **faculty details**, **contact information**, and **testimonials** from students.
 
 ## 🎯 Features
 - 🏫 **Informational Website**: Provides details about courses, faculty, and contact information.
@@ -21,10 +21,10 @@ We welcome your feedback! If you have suggestions for improvements, feel free to
 Your insights help us improve and provide a better learning experience! 🚀
 
 ## 🔗 Live Demo
-[🌍 Visit Divine Classes Website](divineclasses.org)
+[🌍 Visit Divine Classes Website](https://divineclasses.org)
 
 ## 📬 Contact
-For any queries, contact us at ✉️ [thecodebydeepak@gmail.com](mailto:thecodebydeepak@gmail.com]) or visit [🌍 Divine Classes Website](divineclasses.org).
+For any queries, contact us at ✉️ [thecodebydeepak@gmail.com](mailto:thecodebydeepak@gmail.com) <br> or visit [🌍 Divine Classes Website](https://divineclasses.org).
 
 ---
 📝 _Last Updated: March 2025_
