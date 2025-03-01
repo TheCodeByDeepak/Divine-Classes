@@ -21,10 +21,16 @@ We welcome your feedback! If you have suggestions for improvements, feel free to
 Your insights help us improve and provide a better learning experience! 🚀
 
 ## 🔗 Live Demo
-[🌍 Visit Divine Classes Website](https://divineclasses.org)
+🌍 **[Visit Divine Classes Website](https://divineclasses.org)**
 
 ## 📬 Contact
-For any queries, contact us at ✉️ [thecodebydeepak@gmail.com](mailto:thecodebydeepak@gmail.com) <br> or visit [🌍 Divine Classes Website](https://divineclasses.org).
+For any queries, contact us at 
+
+🔗 **[LinkedIn](https://www.linkedin.com/in/thecodebydeepak)** – Feel free to reach out for collaborations. 
+
+✉️ **[Email](mailto:thecodebydeepak@gmail.com)** – Let’s connect and discuss ideas! 
+
+🌍 **[Divine Classes Website](https://divineclasses.org)** - Vist the website.
 
 ---
 📝 _Last Updated: March 2025_
